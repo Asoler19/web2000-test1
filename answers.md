@@ -28,7 +28,7 @@
 
 6) What is the purpose of including multiple <source> elements within a single <video> element?
 
-    The purpose of mutliple source elements within a single video is to ensure that the video plays in as many browsers as possible.
+    The purpose of mutliple source elements within a single video is to ensure that the video plays in as many browsers as possible. Some browsers wont support specific formats.
 
 7) Use webpack to bundle all the files in the following project: https://github.com/Swolebrain/connect4
 Setup Steps:
